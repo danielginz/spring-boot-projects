@@ -34,4 +34,3 @@ public class SimpleDockerApplication {
 
 }
 
-//https://www.youtube.com/watch?v=0oke9VfRt2M
